@@ -1,0 +1,237 @@
+digraph G {
+    node [shape=box];
+    "58.0/1000
+o_x
+xxo
+___
+" -> "24.0/26
+oox
+xxo
+___
+"
+    "58.0/1000
+o_x
+xxo
+___
+" -> "5.0/943
+o_x
+xxo
+o__
+"
+    "58.0/1000
+o_x
+xxo
+___
+" -> "25.0/27
+o_x
+xxo
+_o_
+"
+    "58.0/1000
+o_x
+xxo
+___
+" -> "4.0/4
+o_x
+xxo
+__o
+"
+    "24.0/26
+oox
+xxo
+___
+" -> "23.0/23
+oox
+xxo
+x__
+"
+    "24.0/26
+oox
+xxo
+___
+" -> "0/1
+oox
+xxo
+_x_
+"
+    "24.0/26
+oox
+xxo
+___
+" -> "0/1
+oox
+xxo
+__x
+"
+    "5.0/943
+o_x
+xxo
+o__
+" -> "2.0/374
+oxx
+xxo
+o__
+"
+    "5.0/943
+o_x
+xxo
+o__
+" -> "2.0/375
+o_x
+xxo
+ox_
+"
+    "5.0/943
+o_x
+xxo
+o__
+" -> "0/193
+o_x
+xxo
+o_x
+"
+    "25.0/27
+o_x
+xxo
+_o_
+" -> "0/1
+oxx
+xxo
+_o_
+"
+    "25.0/27
+o_x
+xxo
+_o_
+" -> "24.0/24
+o_x
+xxo
+xo_
+"
+    "25.0/27
+o_x
+xxo
+_o_
+" -> "0/1
+o_x
+xxo
+_ox
+"
+    "4.0/4
+o_x
+xxo
+__o
+" -> "1.0/1
+oxx
+xxo
+__o
+"
+    "4.0/4
+o_x
+xxo
+__o
+" -> "1.0/1
+o_x
+xxo
+x_o
+"
+    "4.0/4
+o_x
+xxo
+__o
+" -> "1.0/1
+o_x
+xxo
+_xo
+"
+    "2.0/374
+oxx
+xxo
+o__
+" -> "0/372
+oxx
+xxo
+oo_
+"
+    "2.0/374
+oxx
+xxo
+o__
+" -> "1.0/1
+oxx
+xxo
+o_o
+"
+    "2.0/375
+o_x
+xxo
+ox_
+" -> "0/373
+oox
+xxo
+ox_
+"
+    "2.0/375
+o_x
+xxo
+ox_
+" -> "1.0/1
+o_x
+xxo
+oxo
+"
+    "0/193
+o_x
+xxo
+o_x
+" -> "0/96
+oox
+xxo
+o_x
+"
+    "0/193
+o_x
+xxo
+o_x
+" -> "0/96
+o_x
+xxo
+oox
+"
+    "0/372
+oxx
+xxo
+oo_
+" -> "0/371
+oxx
+xxo
+oox
+"
+    "0/373
+oox
+xxo
+ox_
+" -> "0/372
+oox
+xxo
+oxx
+"
+    "0/96
+oox
+xxo
+o_x
+" -> "0/95
+oox
+xxo
+oxx
+"
+    "0/96
+o_x
+xxo
+oox
+" -> "0/95
+oxx
+xxo
+oox
+"
+}

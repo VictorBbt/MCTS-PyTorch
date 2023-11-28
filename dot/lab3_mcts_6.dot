@@ -1,0 +1,138 @@
+digraph G {
+    node [shape=box];
+    "6.0/1000
+_o_
+oxx
+_xo
+" -> "0/298
+xo_
+oxx
+_xo
+"
+    "6.0/1000
+_o_
+oxx
+_xo
+" -> "3.0/351
+_ox
+oxx
+_xo
+"
+    "6.0/1000
+_o_
+oxx
+_xo
+" -> "3.0/351
+_o_
+oxx
+xxo
+"
+    "0/298
+xo_
+oxx
+_xo
+" -> "0/149
+xoo
+oxx
+_xo
+"
+    "0/298
+xo_
+oxx
+_xo
+" -> "0/148
+xo_
+oxx
+oxo
+"
+    "3.0/351
+_ox
+oxx
+_xo
+" -> "3.0/3
+oox
+oxx
+_xo
+"
+    "3.0/351
+_ox
+oxx
+_xo
+" -> "0/347
+_ox
+oxx
+oxo
+"
+    "3.0/351
+_o_
+oxx
+xxo
+" -> "3.0/3
+oo_
+oxx
+xxo
+"
+    "3.0/351
+_o_
+oxx
+xxo
+" -> "0/347
+_oo
+oxx
+xxo
+"
+    "0/149
+xoo
+oxx
+_xo
+" -> "0/148
+xoo
+oxx
+xxo
+"
+    "0/148
+xo_
+oxx
+oxo
+" -> "0/147
+xox
+oxx
+oxo
+"
+    "3.0/3
+oox
+oxx
+_xo
+" -> "2.0/2
+oox
+oxx
+xxo
+"
+    "0/347
+_ox
+oxx
+oxo
+" -> "0/346
+xox
+oxx
+oxo
+"
+    "3.0/3
+oo_
+oxx
+xxo
+" -> "2.0/2
+oox
+oxx
+xxo
+"
+    "0/347
+_oo
+oxx
+xxo
+" -> "0/346
+xoo
+oxx
+xxo
+"
+}

@@ -1,0 +1,21 @@
+digraph G {
+    node [shape=box];
+    "-1.0/2
+__o
+xxo
+x__
+" -> "0/1
+o_o
+xxo
+x__
+"
+    "-1.0/2
+__o
+xxo
+x__
+" -> "-1.0/1
+_oo
+xxo
+x__
+"
+}

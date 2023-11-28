@@ -1,0 +1,39 @@
+digraph G {
+    node [shape=box];
+    "4.0/1000
+__o
+oxx
+xxo
+" -> "4.0/4
+o_o
+oxx
+xxo
+"
+    "4.0/1000
+__o
+oxx
+xxo
+" -> "0/996
+_oo
+oxx
+xxo
+"
+    "4.0/4
+o_o
+oxx
+xxo
+" -> "3.0/3
+oxo
+oxx
+xxo
+"
+    "0/996
+_oo
+oxx
+xxo
+" -> "0/995
+xoo
+oxx
+xxo
+"
+}

@@ -1,0 +1,12 @@
+digraph G {
+    node [shape=box];
+    "0/1
+__o
+xxo
+x__
+" -> "0/1
+o_o
+xxo
+x__
+"
+}

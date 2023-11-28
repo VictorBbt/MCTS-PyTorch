@@ -1,0 +1,1227 @@
+digraph G {
+    node [shape=box];
+    "40.0/1000
+___
+oxx
+__o
+" -> "3.0/168
+x__
+oxx
+__o
+"
+    "40.0/1000
+___
+oxx
+__o
+" -> "10.0/234
+_x_
+oxx
+__o
+"
+    "40.0/1000
+___
+oxx
+__o
+" -> "-5.0/18
+__x
+oxx
+__o
+"
+    "40.0/1000
+___
+oxx
+__o
+" -> "16.0/290
+___
+oxx
+x_o
+"
+    "40.0/1000
+___
+oxx
+__o
+" -> "16.0/290
+___
+oxx
+_xo
+"
+    "3.0/168
+x__
+oxx
+__o
+" -> "3.0/7
+xo_
+oxx
+__o
+"
+    "3.0/168
+x__
+oxx
+__o
+" -> "3.0/6
+x_o
+oxx
+__o
+"
+    "3.0/168
+x__
+oxx
+__o
+" -> "1.0/38
+x__
+oxx
+o_o
+"
+    "3.0/168
+x__
+oxx
+__o
+" -> "-4.0/116
+x__
+oxx
+_oo
+"
+    "10.0/234
+_x_
+oxx
+__o
+" -> "3.0/3
+ox_
+oxx
+__o
+"
+    "10.0/234
+_x_
+oxx
+__o
+" -> "4.0/6
+_xo
+oxx
+__o
+"
+    "10.0/234
+_x_
+oxx
+__o
+" -> "4.0/8
+_x_
+oxx
+o_o
+"
+    "10.0/234
+_x_
+oxx
+__o
+" -> "-2.0/216
+_x_
+oxx
+_oo
+"
+    "-5.0/18
+__x
+oxx
+__o
+" -> "0.0/2
+o_x
+oxx
+__o
+"
+    "-5.0/18
+__x
+oxx
+__o
+" -> "1.0/2
+_ox
+oxx
+__o
+"
+    "-5.0/18
+__x
+oxx
+__o
+" -> "-8.0/12
+__x
+oxx
+o_o
+"
+    "-5.0/18
+__x
+oxx
+__o
+" -> "1.0/1
+__x
+oxx
+_oo
+"
+    "16.0/290
+___
+oxx
+x_o
+" -> "3.0/3
+o__
+oxx
+x_o
+"
+    "16.0/290
+___
+oxx
+x_o
+" -> "4.0/7
+_o_
+oxx
+x_o
+"
+    "16.0/290
+___
+oxx
+x_o
+" -> "4.0/273
+__o
+oxx
+x_o
+"
+    "16.0/290
+___
+oxx
+x_o
+" -> "4.0/6
+___
+oxx
+xoo
+"
+    "16.0/290
+___
+oxx
+_xo
+" -> "4.0/6
+o__
+oxx
+_xo
+"
+    "16.0/290
+___
+oxx
+_xo
+" -> "4.0/269
+_o_
+oxx
+_xo
+"
+    "16.0/290
+___
+oxx
+_xo
+" -> "4.0/7
+__o
+oxx
+_xo
+"
+    "16.0/290
+___
+oxx
+_xo
+" -> "4.0/7
+___
+oxx
+oxo
+"
+    "3.0/7
+xo_
+oxx
+__o
+" -> "2.0/3
+xox
+oxx
+__o
+"
+    "3.0/7
+xo_
+oxx
+__o
+" -> "1.0/2
+xo_
+oxx
+x_o
+"
+    "3.0/7
+xo_
+oxx
+__o
+" -> "0/1
+xo_
+oxx
+_xo
+"
+    "3.0/6
+x_o
+oxx
+__o
+" -> "0/1
+xxo
+oxx
+__o
+"
+    "3.0/6
+x_o
+oxx
+__o
+" -> "0/1
+x_o
+oxx
+x_o
+"
+    "3.0/6
+x_o
+oxx
+__o
+" -> "2.0/3
+x_o
+oxx
+_xo
+"
+    "1.0/38
+x__
+oxx
+o_o
+" -> "-2.0/4
+xx_
+oxx
+o_o
+"
+    "1.0/38
+x__
+oxx
+o_o
+" -> "-1.0/1
+x_x
+oxx
+o_o
+"
+    "1.0/38
+x__
+oxx
+o_o
+" -> "3.0/32
+x__
+oxx
+oxo
+"
+    "-4.0/116
+x__
+oxx
+_oo
+" -> "-3.0/4
+xx_
+oxx
+_oo
+"
+    "-4.0/116
+x__
+oxx
+_oo
+" -> "-3.0/5
+x_x
+oxx
+_oo
+"
+    "-4.0/116
+x__
+oxx
+_oo
+" -> "2.0/106
+x__
+oxx
+xoo
+"
+    "3.0/3
+ox_
+oxx
+__o
+" -> "1.0/1
+oxx
+oxx
+__o
+"
+    "3.0/3
+ox_
+oxx
+__o
+" -> "1.0/1
+ox_
+oxx
+x_o
+"
+    "4.0/6
+_xo
+oxx
+__o
+" -> "0/1
+xxo
+oxx
+__o
+"
+    "4.0/6
+_xo
+oxx
+__o
+" -> "0/1
+_xo
+oxx
+x_o
+"
+    "4.0/6
+_xo
+oxx
+__o
+" -> "3.0/3
+_xo
+oxx
+_xo
+"
+    "4.0/8
+_x_
+oxx
+o_o
+" -> "-1.0/1
+xx_
+oxx
+o_o
+"
+    "4.0/8
+_x_
+oxx
+o_o
+" -> "-1.0/1
+_xx
+oxx
+o_o
+"
+    "4.0/8
+_x_
+oxx
+o_o
+" -> "5.0/5
+_x_
+oxx
+oxo
+"
+    "-2.0/216
+_x_
+oxx
+_oo
+" -> "-3.0/4
+xx_
+oxx
+_oo
+"
+    "-2.0/216
+_x_
+oxx
+_oo
+" -> "-3.0/5
+_xx
+oxx
+_oo
+"
+    "-2.0/216
+_x_
+oxx
+_oo
+" -> "4.0/206
+_x_
+oxx
+xoo
+"
+    "0.0/2
+o_x
+oxx
+__o
+" -> "1.0/1
+oxx
+oxx
+__o
+"
+    "1.0/2
+_ox
+oxx
+__o
+" -> "1.0/1
+xox
+oxx
+__o
+"
+    "-8.0/12
+__x
+oxx
+o_o
+" -> "-3.0/4
+x_x
+oxx
+o_o
+"
+    "-8.0/12
+__x
+oxx
+o_o
+" -> "-2.0/2
+_xx
+oxx
+o_o
+"
+    "-8.0/12
+__x
+oxx
+o_o
+" -> "-3.0/5
+__x
+oxx
+oxo
+"
+    "3.0/3
+o__
+oxx
+x_o
+" -> "1.0/1
+ox_
+oxx
+x_o
+"
+    "3.0/3
+o__
+oxx
+x_o
+" -> "1.0/1
+o_x
+oxx
+x_o
+"
+    "4.0/7
+_o_
+oxx
+x_o
+" -> "1.0/2
+xo_
+oxx
+x_o
+"
+    "4.0/7
+_o_
+oxx
+x_o
+" -> "3.0/3
+_ox
+oxx
+x_o
+"
+    "4.0/7
+_o_
+oxx
+x_o
+" -> "0/1
+_o_
+oxx
+xxo
+"
+    "4.0/273
+__o
+oxx
+x_o
+" -> "0/78
+x_o
+oxx
+x_o
+"
+    "4.0/273
+__o
+oxx
+x_o
+" -> "2.0/97
+_xo
+oxx
+x_o
+"
+    "4.0/273
+__o
+oxx
+x_o
+" -> "2.0/97
+__o
+oxx
+xxo
+"
+    "4.0/6
+___
+oxx
+xoo
+" -> "0/1
+x__
+oxx
+xoo
+"
+    "4.0/6
+___
+oxx
+xoo
+" -> "0/1
+_x_
+oxx
+xoo
+"
+    "4.0/6
+___
+oxx
+xoo
+" -> "3.0/3
+__x
+oxx
+xoo
+"
+    "4.0/6
+o__
+oxx
+_xo
+" -> "2.0/2
+ox_
+oxx
+_xo
+"
+    "4.0/6
+o__
+oxx
+_xo
+" -> "-1.0/1
+o_x
+oxx
+_xo
+"
+    "4.0/6
+o__
+oxx
+_xo
+" -> "2.0/2
+o__
+oxx
+xxo
+"
+    "4.0/269
+_o_
+oxx
+_xo
+" -> "0/76
+xo_
+oxx
+_xo
+"
+    "4.0/269
+_o_
+oxx
+_xo
+" -> "2.0/96
+_ox
+oxx
+_xo
+"
+    "4.0/269
+_o_
+oxx
+_xo
+" -> "2.0/96
+_o_
+oxx
+xxo
+"
+    "4.0/7
+__o
+oxx
+_xo
+" -> "1.0/2
+x_o
+oxx
+_xo
+"
+    "4.0/7
+__o
+oxx
+_xo
+" -> "3.0/3
+_xo
+oxx
+_xo
+"
+    "4.0/7
+__o
+oxx
+_xo
+" -> "0/1
+__o
+oxx
+xxo
+"
+    "4.0/7
+___
+oxx
+oxo
+" -> "1.0/2
+x__
+oxx
+oxo
+"
+    "4.0/7
+___
+oxx
+oxo
+" -> "3.0/3
+_x_
+oxx
+oxo
+"
+    "4.0/7
+___
+oxx
+oxo
+" -> "0/1
+__x
+oxx
+oxo
+"
+    "2.0/3
+xox
+oxx
+__o
+" -> "0/1
+xox
+oxx
+o_o
+"
+    "2.0/3
+xox
+oxx
+__o
+" -> "1.0/1
+xox
+oxx
+_oo
+"
+    "1.0/2
+xo_
+oxx
+x_o
+" -> "0/1
+xoo
+oxx
+x_o
+"
+    "2.0/3
+x_o
+oxx
+_xo
+" -> "0/1
+xoo
+oxx
+_xo
+"
+    "2.0/3
+x_o
+oxx
+_xo
+" -> "1.0/1
+x_o
+oxx
+oxo
+"
+    "-2.0/4
+xx_
+oxx
+o_o
+" -> "1.0/1
+xxo
+oxx
+o_o
+"
+    "-2.0/4
+xx_
+oxx
+o_o
+" -> "-2.0/2
+xx_
+oxx
+ooo
+"
+    "3.0/32
+x__
+oxx
+oxo
+" -> "0/29
+xo_
+oxx
+oxo
+"
+    "3.0/32
+x__
+oxx
+oxo
+" -> "2.0/2
+x_o
+oxx
+oxo
+"
+    "-3.0/4
+xx_
+oxx
+_oo
+" -> "0/1
+xxo
+oxx
+_oo
+"
+    "-3.0/4
+xx_
+oxx
+_oo
+" -> "-2.0/2
+xx_
+oxx
+ooo
+"
+    "-3.0/5
+x_x
+oxx
+_oo
+" -> "1.0/1
+xox
+oxx
+_oo
+"
+    "-3.0/5
+x_x
+oxx
+_oo
+" -> "-3.0/3
+x_x
+oxx
+ooo
+"
+    "2.0/106
+x__
+oxx
+xoo
+" -> "2.0/2
+xo_
+oxx
+xoo
+"
+    "2.0/106
+x__
+oxx
+xoo
+" -> "0/103
+x_o
+oxx
+xoo
+"
+    "-3.0/4
+xx_
+oxx
+_oo
+" -> "0/1
+xxo
+oxx
+_oo
+"
+    "-3.0/4
+xx_
+oxx
+_oo
+" -> "-2.0/2
+xx_
+oxx
+ooo
+"
+    "-3.0/5
+_xx
+oxx
+_oo
+" -> "1.0/1
+oxx
+oxx
+_oo
+"
+    "-3.0/5
+_xx
+oxx
+_oo
+" -> "-3.0/3
+_xx
+oxx
+ooo
+"
+    "4.0/206
+_x_
+oxx
+xoo
+" -> "3.0/3
+ox_
+oxx
+xoo
+"
+    "4.0/206
+_x_
+oxx
+xoo
+" -> "0/202
+_xo
+oxx
+xoo
+"
+    "-3.0/4
+x_x
+oxx
+o_o
+" -> "0/1
+xox
+oxx
+o_o
+"
+    "-3.0/4
+x_x
+oxx
+o_o
+" -> "-2.0/2
+x_x
+oxx
+ooo
+"
+    "-2.0/2
+_xx
+oxx
+o_o
+" -> "-1.0/1
+oxx
+oxx
+o_o
+"
+    "-3.0/5
+__x
+oxx
+oxo
+" -> "-3.0/3
+o_x
+oxx
+oxo
+"
+    "-3.0/5
+__x
+oxx
+oxo
+" -> "0/1
+_ox
+oxx
+oxo
+"
+    "1.0/2
+xo_
+oxx
+x_o
+" -> "0/1
+xoo
+oxx
+x_o
+"
+    "0/78
+x_o
+oxx
+x_o
+" -> "0/38
+xoo
+oxx
+x_o
+"
+    "0/78
+x_o
+oxx
+x_o
+" -> "0/39
+x_o
+oxx
+xoo
+"
+    "2.0/97
+_xo
+oxx
+x_o
+" -> "2.0/2
+oxo
+oxx
+x_o
+"
+    "2.0/97
+_xo
+oxx
+x_o
+" -> "0/94
+_xo
+oxx
+xoo
+"
+    "2.0/97
+__o
+oxx
+xxo
+" -> "2.0/2
+o_o
+oxx
+xxo
+"
+    "2.0/97
+__o
+oxx
+xxo
+" -> "0/94
+_oo
+oxx
+xxo
+"
+    "2.0/2
+o__
+oxx
+xxo
+" -> "1.0/1
+oo_
+oxx
+xxo
+"
+    "0/76
+xo_
+oxx
+_xo
+" -> "0/38
+xoo
+oxx
+_xo
+"
+    "0/76
+xo_
+oxx
+_xo
+" -> "0/37
+xo_
+oxx
+oxo
+"
+    "2.0/96
+_ox
+oxx
+_xo
+" -> "2.0/2
+oox
+oxx
+_xo
+"
+    "2.0/96
+_ox
+oxx
+_xo
+" -> "0/93
+_ox
+oxx
+oxo
+"
+    "2.0/96
+_o_
+oxx
+xxo
+" -> "2.0/2
+oo_
+oxx
+xxo
+"
+    "2.0/96
+_o_
+oxx
+xxo
+" -> "0/93
+_oo
+oxx
+xxo
+"
+    "1.0/2
+x_o
+oxx
+_xo
+" -> "0/1
+xoo
+oxx
+_xo
+"
+    "1.0/2
+x__
+oxx
+oxo
+" -> "0/1
+xo_
+oxx
+oxo
+"
+    "0/29
+xo_
+oxx
+oxo
+" -> "0/28
+xox
+oxx
+oxo
+"
+    "2.0/2
+x_o
+oxx
+oxo
+" -> "1.0/1
+xxo
+oxx
+oxo
+"
+    "2.0/2
+xo_
+oxx
+xoo
+" -> "1.0/1
+xox
+oxx
+xoo
+"
+    "0/103
+x_o
+oxx
+xoo
+" -> "0/102
+xxo
+oxx
+xoo
+"
+    "3.0/3
+ox_
+oxx
+xoo
+" -> "2.0/2
+oxx
+oxx
+xoo
+"
+    "0/202
+_xo
+oxx
+xoo
+" -> "0/201
+xxo
+oxx
+xoo
+"
+    "0/38
+xoo
+oxx
+x_o
+" -> "0/37
+xoo
+oxx
+xxo
+"
+    "0/39
+x_o
+oxx
+xoo
+" -> "0/38
+xxo
+oxx
+xoo
+"
+    "2.0/2
+oxo
+oxx
+x_o
+" -> "1.0/1
+oxo
+oxx
+xxo
+"
+    "0/94
+_xo
+oxx
+xoo
+" -> "0/93
+xxo
+oxx
+xoo
+"
+    "2.0/2
+o_o
+oxx
+xxo
+" -> "1.0/1
+oxo
+oxx
+xxo
+"
+    "0/94
+_oo
+oxx
+xxo
+" -> "0/93
+xoo
+oxx
+xxo
+"
+    "0/38
+xoo
+oxx
+_xo
+" -> "0/37
+xoo
+oxx
+xxo
+"
+    "0/37
+xo_
+oxx
+oxo
+" -> "0/36
+xox
+oxx
+oxo
+"
+    "2.0/2
+oox
+oxx
+_xo
+" -> "1.0/1
+oox
+oxx
+xxo
+"
+    "0/93
+_ox
+oxx
+oxo
+" -> "0/92
+xox
+oxx
+oxo
+"
+    "2.0/2
+oo_
+oxx
+xxo
+" -> "1.0/1
+oox
+oxx
+xxo
+"
+    "0/93
+_oo
+oxx
+xxo
+" -> "0/92
+xoo
+oxx
+xxo
+"
+}
